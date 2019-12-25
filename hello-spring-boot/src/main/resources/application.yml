@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hellp-spring-boot
+
+server:
+  port: 8088
+  servlet:
+    context-path: /boot
