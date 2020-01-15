@@ -21,5 +21,11 @@ public class TestController {
 
     }
 
+    @GetMapping("/echo2/{str}")
+    public String echo2(@PathVariable("str") String str) {
+        return restTemplate.getForObject("http://service-provider2/echo2/" + str, String.class);
+
+    }
+
 
 }

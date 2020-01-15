@@ -8,12 +8,16 @@ import org.springframework.web.bind.annotation.PathVariable;
 /**
  * @author ybq
  */
-@FeignClient(name = "service-provider", fallback = EchoServiceFallback.class)
+@FeignClient(name = "service-provider2", fallback = EchoServiceFallback.class)
 public interface EchoService {
 
     @GetMapping(value = "/echo/{string}")
     String echo(@PathVariable("string") String string);
 
+    @GetMapping(value = "/echo2/{string}")
+    String echo2(@PathVariable("string") String string);
+
     @GetMapping(value = "/lb")
     String lb();
+
 }

@@ -14,6 +14,11 @@ public class EchoServiceFallback implements EchoService {
     }
 
     @Override
+    public String echo2(String string) {
+        return "你的网络有问题";
+    }
+
+    @Override
     public String lb() {
         return "请联系管理员";
     }
