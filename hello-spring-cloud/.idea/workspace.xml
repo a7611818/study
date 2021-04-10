@@ -2,79 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be30ad02-76e3-4246-b02a-ab3ad7906368" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-provider2/src/main/java/com/funtl/spring/cloud/alibaba/provider2/ProviderApplication2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-provider2/src/main/java/com/funtl/spring/cloud/alibaba/provider2/controller/EchoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-provider2/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-apache-dubbo/hello-apache-dubbo-consumer/src/main/java/com/funtl/apache/dubbo/consumer/controller/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-apache-dubbo/hello-apache-dubbo-consumer/src/main/java/com/funtl/apache/dubbo/consumer/controller/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-apache-dubbo/hello-apache-dubbo-consumer/src/main/java/com/funtl/apache/dubbo/consumer/controller/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-apache-dubbo/hello-apache-dubbo-consumer/src/main/java/com/funtl/apache/dubbo/consumer/controller/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/controller/TestEchoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/controller/TestEchoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/service/EchoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/service/EchoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/service/fallback/EchoServiceFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/hello-spring-cloud-alibaba-consumer/src/main/java/com/funtl/spring/cloud/alibaba/consumer/service/fallback/EchoServiceFallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-cloud-alibaba/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/01.构建单体应用模型.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/02.走向单体地狱.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/03.微服务解决复杂问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/04.微服务的优点.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/05.微服务的缺点.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/06.CAP 定理与 BASE 理论.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/1.什么是微服务/07.如何应对高并发.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/01.Linux 简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/02.Linux 远程控制管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/03Linux 目录管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/04.Linux 系统管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/05.Linux Vim 编辑器.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/06.Linux 用户和组管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/07.Linux 文件权限管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/08.Linux 软件包管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/09.Linux 部署应用程序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/2.linux/10.Linux LVM 磁盘扩容.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/01.Docker 简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/02.安装 Docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/03.Docker 概述.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/04.Docker 操作镜像.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/05.Docker 操作容器.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/06.Dockerfile 定制镜像.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/07.Dockerfile 指令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/08.Docker Compose 简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/09.Docker Compose 使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/10.Docker Compose 部署应用程序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/11.Docker Compose 部署 GitLab.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/12.Docker Compose 部署 Nexus.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/13.Docker Compose 部署 Harbor.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/14.Docker Compose 网络设置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/3.Docker/Docker 常用命令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/01.微服务的概念.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/02.微服务的实践.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/03.微服务设计模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/04.Spring Boot 简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/05.第一个 Spring Boot 应用程序.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/06.Spring Boot 单元测试.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/07.Spring Boot 常用配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/08.Thymeleaf 简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/09.第一个 Thymeleaf 页面.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/10.Spring Boot 整合 HikariCP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/11.Spring Boot 整合 TkMyBatis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/12.代码生成插件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/13.CRUD 操作.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/14.Spring Cloud Netflix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/15.Spring Cloud Alibaba.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/16.创建项目工程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/17.创建统一的依赖管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/18.Nacos 注册中心.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/19.Nacos 安装.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/20.Nacos 服务注册与发现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/21.Nacos Feign 客户端.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/22.Nacos 分布式配置中心.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/23.Nacos 多环境配置.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/24.Sentinel 分布式系统的流量防卫兵.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/25.Sentinel 控制台.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/26.Sentinel 客户端接入.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/27.Dubbo 简介.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/28.Dubbo 创建项目工程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/29.Dubbo 创建统一的依赖管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/4.spring boot/30.Dubbo 服务注册与发现.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../note/java笔记/微服务 - 副本/分布式锁需要具备什么条件.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/src/Solution/TwoSum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +62,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -246,18 +174,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -276,11 +192,12 @@
       <workItem from="1565708631837" duration="1211000" />
       <workItem from="1565745877140" duration="112000" />
       <workItem from="1578626839978" duration="2000" />
+      <workItem from="1587607090991" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="masterDetails">
     <states>
